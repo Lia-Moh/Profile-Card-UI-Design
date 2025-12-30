@@ -4,7 +4,7 @@
 A modern, sleek, and fully responsive Profile Card built using **HTML5** and **CSS3**. This project features a clean layout, social media integration and interactive hover effects.
 
 ## Preview
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Profile Card/screenshot.png)
 
 ## 🚀 Live Demo
 Check out the live version here: [Profile Card Live Link](https://profile-card-design0.netlify.app/)
